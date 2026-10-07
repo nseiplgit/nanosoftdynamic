@@ -1,0 +1,6 @@
+{
+  "name": "SmartFM AI — Intelligent Facility Management Platform",
+  "description": "Transform facility operations with AI-powered insights, intelligent agents, predictive maintenance, automated workflows, and real-time facility intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
